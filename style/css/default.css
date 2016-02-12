@@ -1,0 +1,18 @@
+html,body{
+	margin:0;
+	padding:0;
+	background:#e5e5e5;
+	color:#444;
+	font-family:arial;
+	font-size:16px;
+}
+
+#glavo{
+	width:600px;
+	margin:20px auto;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding:0;
+}

@@ -1,0 +1,18 @@
+[17-Nov-2015 13:28:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/php/proces/registracija.php(3): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:34:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/php/proces/prijava.php(2): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:35:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/php/proces/prijava.php(2): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2

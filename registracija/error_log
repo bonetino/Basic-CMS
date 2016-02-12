@@ -1,0 +1,72 @@
+[17-Nov-2015 13:30:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(2): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:31:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(2): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:31:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(2): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:31:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(3): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:31:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(3): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:31:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(3): require_once('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:33:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(3): include('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:33:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(3): include('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:33:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/wwbotic1/public_html/cms/php/lib/db.php:2
+Stack trace:
+#0 /home/wwbotic1/public_html/cms/php/lib/db.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wwbotic1/public_html/cms/registracija/index.php(3): include('/home/wwbotic1/...')
+#2 {main}
+  thrown in /home/wwbotic1/public_html/cms/php/lib/db.php on line 2
+[17-Nov-2015 13:35:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 13:35:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 13:36:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:03:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:04:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:06:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:07:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:07:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:07:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:07:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:08:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:08:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wwbotic1/public_html/cms/registracija/index.php on line 2
+[17-Nov-2015 14:31:06 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wwbotic1/public_html/cms/registracija/index.php on line 3
+[17-Nov-2015 14:32:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wwbotic1/public_html/cms/registracija/index.php on line 3
+[17-Nov-2015 14:32:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wwbotic1/public_html/cms/registracija/index.php on line 3
+[17-Nov-2015 14:32:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wwbotic1/public_html/cms/registracija/index.php on line 3
+[17-Nov-2015 14:37:58 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wwbotic1/public_html/cms/registracija/index.php on line 3
+[17-Nov-2015 14:38:03 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wwbotic1/public_html/cms/registracija/index.php on line 3
